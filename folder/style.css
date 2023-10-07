@@ -1,7 +1,17 @@
 
-body {
+.home {
 	background-color: lightblue;
 	margin: 0px 200px 0px 200px;
+}
+
+.library {
+	background-color: #7CC489;
+	text-align: center;
+	margin: 0px 5% 0px 5%
+}
+
+.museum {
+	
 }
 
 h1 {
@@ -12,6 +22,12 @@ h1 {
 	text-align: center;
 	border-style: solid;
 	background-color: #ff6b57;
+}
+
+.style2 {
+	text-align: center;
+	border-style: solid;
+	background-color: #8DDCE9;
 }
 
 .list {
