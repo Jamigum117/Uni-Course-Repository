@@ -10,6 +10,34 @@
 	margin: 0px 5% 0px 5%
 }
 
+.image-88x31 {
+	img {width: 88px; height: 31px}
+}
+
+.image-300 {
+	img {height: 300px;}
+}
+
+.image-368 {
+	img {height: 368px;}
+}
+
+.image-400 {
+	img {height: 400px;}
+}
+
+.image-320 {
+	img {height: 320px;}
+}
+
+.image-360 {
+	img {height: 360px;}
+}
+
+.image-340 {
+	img {height: 340px;}
+}
+
 .museum {
 	
 }
