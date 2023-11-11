@@ -1,13 +1,18 @@
 
 .home {
 	background-color: lightblue;
-	margin: 0px 200px 0px 200px;
+	margin: 0px 5% 0px 5%;
 }
 
 .library {
 	background-color: #7CC489;
 	text-align: center;
 	margin: 0px 5% 0px 5%
+}
+
+.fortress {
+	background-color: #b05d21;
+	margin: 0px 5% 0px 5%;
 }
 
 .image-88x31 {
@@ -46,7 +51,7 @@ h1 {
 	
 }
 
-.style1 {
+.submain {
 	text-align: center;
 	border-style: solid;
 	background-color: #ff6b57;
@@ -56,6 +61,14 @@ h1 {
 	text-align: center;
 	border-style: solid;
 	background-color: #8DDCE9;
+}
+
+.fortress2 {
+	text-align: center;
+	color: white;
+	border: 2px solid white;
+	border-radius: 5px;
+	background-color: #363636;
 }
 
 .list {
